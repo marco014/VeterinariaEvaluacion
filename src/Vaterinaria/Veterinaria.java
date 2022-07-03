@@ -1,5 +1,8 @@
 package Vaterinaria;
 
+/* Veronica Velasco Jiménez 221224
+   Marco Darinel Ortiz Díaz 221213
+*/
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.Scanner;
