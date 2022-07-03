@@ -1,4 +1,4 @@
-package Vaterinaria;
+package Veterinaria;
 
 import java.util.Date;
 

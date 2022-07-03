@@ -1,4 +1,4 @@
-package Vaterinaria;
+package Veterinaria;
 
 /* Veronica Velasco Jiménez 221224
    Marco Darinel Ortiz Díaz 221213

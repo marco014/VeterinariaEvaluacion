@@ -1,4 +1,4 @@
-package Vaterinaria;
+package Veterinaria;
 
 public class Cliente {
     private int id;

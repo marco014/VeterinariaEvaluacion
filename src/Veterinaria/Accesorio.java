@@ -1,4 +1,4 @@
-package Vaterinaria;
+package Veterinaria;
 
 public class Accesorio extends Producto{
     String tipo;
